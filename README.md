@@ -22,7 +22,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
     ```elixir
     def deps do
-      [{:gettext_extract_vue, github: "mlankenau/gettext_extract_vue"]
+      [{:gettext_extract_vue, github: "mlankenau/gettext_extract_vue"}]
     end
     ```
 
